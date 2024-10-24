@@ -36,6 +36,11 @@ Environment Variables
 DATABASE_URL=postgres://user:password@localhost:5432/contact_management
 JWT_SECRET=your_secret_key
 
+# SCREENSHOTS
+![Screenshot 2024-10-22 200640](https://github.com/user-attachments/assets/71741741-c40b-4521-abd3-9565bf50d9a3)
+![Screenshot 2024-10-22 200742](https://github.com/user-attachments/assets/748925ce-a07d-4085-ada1-18dc89bea5d7)
+
+
 # Install Dependencies
 Run the following command to install all dependencies:
 
